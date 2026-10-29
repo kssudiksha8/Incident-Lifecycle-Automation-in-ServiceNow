@@ -1,12 +1,12 @@
 # Incident Lifecycle Automation in ServiceNow
 
-## 📌 Project Overview
+##  Project Overview
 
 **Incident Lifecycle Automation in ServiceNow** demonstrates the end-to-end management of IT incidents using ServiceNow IT Service Management (ITSM).
 
 The project follows a **Corporate VPN Connectivity Issue** from incident creation and classification through troubleshooting, reassignment, escalation, resolution, and knowledge creation. It highlights how ServiceNow helps support teams manage incidents systematically and maintain clear records throughout the incident lifecycle.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Create and manage incident records in ServiceNow.
 - Classify incidents based on category, impact, and urgency.
@@ -19,7 +19,7 @@ The project follows a **Corporate VPN Connectivity Issue** from incident creatio
 - Create knowledge articles from resolved incidents.
 - Validate incident status and resolution information.
 
-## 🛠️ Technologies and Modules
+##  Technologies and Modules
 
 | Technology / Module | Purpose |
 |---|---|
@@ -30,7 +30,7 @@ The project follows a **Corporate VPN Connectivity Issue** from incident creatio
 | SLA Management | Monitoring incident service-level commitments |
 | Configuration Management | Associating incidents with services and configuration items |
 
-## 🔄 Incident Lifecycle Workflow
+##  Incident Lifecycle Workflow
 
 The project uses a Corporate VPN Connectivity Issue to illustrate the following workflow:
 
@@ -60,7 +60,7 @@ Final Validation
 
 *Note: Conditional steps, such as awaiting a change or creating a child incident, apply only when required by the scenario.*
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 Incident-Lifecycle-Automation-in-ServiceNow/
@@ -78,13 +78,13 @@ Incident-Lifecycle-Automation-in-ServiceNow/
 └── README.md
 ```
 
-## 📸 Project Evidence
+##  Project Evidence
 
 The [`Screenshots`](Screenshots/) folder contains screenshots documenting the ServiceNow implementation and relevant project stages.
 
 These screenshots provide visual evidence of the incident workflow and configuration completed during the project.
 
-## 📚 Project Documentation
+##  Project Documentation
 
 The following documents describe the project from planning to implementation:
 
@@ -95,7 +95,7 @@ The following documents describe the project from planning to implementation:
 - [Project Development Phase](Project%20Development%20Phase.pdf)
 - [Final Project Documentation](Final%20Project%20Documentation.pdf)
 
-## ✅ Expected Outcomes
+##  Expected Outcomes
 
 The project demonstrates how ServiceNow can support a structured incident management process by helping teams:
 
@@ -106,14 +106,14 @@ The project demonstrates how ServiceNow can support a structured incident manage
 - Improve collaboration between support teams.
 - Maintain better visibility into incident progress and SLA information.
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Automate incident assignment using configurable business rules or flows.
 - Configure automated notifications for assignment changes and SLA risks.
 - Develop dashboards to monitor incident trends and resolution performance.
 - Expand automated testing for incident lifecycle scenarios.
 
-## 👩‍💻 Author
+##  Author
 
 **Sai Sudiksha Kolla**
 
